@@ -1,0 +1,1 @@
+# minimalna-maksymalna-odczytywanie-plikow
